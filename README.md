@@ -14,6 +14,7 @@
 | 스킬 | 설명 |
 |------|------|
 | [term-wiki](./term-wiki/) | 비개발자를 위한 개발·비즈니스 용어 자동 설명 + Notion 위키 기록 |
+| [dev-prod-db-separation](./dev-prod-db-separation/) | Next.js+Supabase+Vercel에서 개발(dev) DB와 운영(prod) DB를 안전하게 분리 + 마이그레이션하는 자율 실행 플레이북. 호출하면 현황을 스스로 조사하고 모르는 값(새 프로젝트 URL/키)만 물어본 뒤 끝까지 진행. 운영 DB 사고 방지 가드레일 포함 |
 
 ---
 
